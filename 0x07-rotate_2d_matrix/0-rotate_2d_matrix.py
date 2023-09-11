@@ -1,9 +1,10 @@
 #!/usr/bin/python3
-"""Rotates 2-D matrix:"""
+"""Rotates 2-D matrix"""
 
 
 def rotate_2d_matrix(m):
-    """Rotates in-place"""
+    """ Rotates in-place """
+
     n = len(m)
     temp1, temp2 = 0, 0
 
