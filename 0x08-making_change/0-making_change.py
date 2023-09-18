@@ -3,9 +3,10 @@
 
 
 def makeChange(coins, total):
-    """ Generate changes needed to reach total
+    """
+     Generates changes needed to reach total
 
-    Args:
+     Args:
         coins ([List]): [List of Coins available]
         total ([int]): [total amount needed]
     """
